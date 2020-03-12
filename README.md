@@ -24,20 +24,18 @@ Finally, we will export the model to a pickle file.
 In the last part, we'll display our results in a Flask web app. We have provided a workspace for users  
 with starter files. We can upload our database file and pkl file with our model.
 
-## Install
+## Install & Run
 
 ```
 python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db
 
-python train_classifier.py ../data/DisasterResponse.db classifier.pkl```
+python train_classifier.py ../data/DisasterResponse.db classifier.pkl
 
-```
 python run.py
 Then visit the browser window for web page.
 ```
 
 ## Contributing
-
 Udacity
 
 ## License
