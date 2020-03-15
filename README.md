@@ -33,6 +33,8 @@ python train_classifier.py ../data/DisasterResponse.db classifier.pkl
 
 python run.py
 Then visit the browser window for web page.
+This is my test link:
+https://view6914b2f4-3001.udacity-student-workspaces.com
 ```
 
 ## Contributing
